@@ -15,4 +15,8 @@ modules:
     - dpkg-dev
     - build-essential
     - debhelper
-    
+    - neovim
+    - neofetch
+    - emacs
+    - joe
+    - mc
